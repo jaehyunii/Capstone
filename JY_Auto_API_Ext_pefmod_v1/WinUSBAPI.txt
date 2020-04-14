@@ -1,0 +1,1 @@
+'LoadLibraryA','GetProcAddress','VirtualProtect','VirtualAlloc','VirtualFree','ExitProcess','RegSaveKeyW','InitCommonControls','PrintDlgW','Direct3DCreate9','EndDoc','strchr','NetWkstaGetInfo','OleDraw','VariantCopy','ShellExecuteW','GetDC','VerQueryValueW','InternetOpenW','timeGetTime','SetPrinterW',
